@@ -10,6 +10,10 @@ repositories {
 }
 
 dependencies {
+    implementation 'io.github.cdimascio:java-dotenv:5.2.2'
+    implementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.5.25'
+    implementation "com.anthropic:anthropic-java:1.0.0"
+
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 }
