@@ -1,2 +1,2 @@
 # Epstein-File-Parsed
-A dive into the mass documents of the Epstein files presented in an effective read for the average person via Claude AI analysis.
+A dive into the mass documents of the Epstein files presented in an effective read for the average person via Claude AI analysis and citation from direct documents released by the DOJ.
