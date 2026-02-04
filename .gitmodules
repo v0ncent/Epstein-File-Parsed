@@ -1,0 +1,3 @@
+[submodule "EpsteinFilesParser/files"]
+	path = EpsteinFilesParser/files
+	url = https://github.com/promexdotme/epstein-justice-files-text.git
